@@ -1,0 +1,1 @@
+<view class="data-v-57280228"><view class="wrap data-v-57280228"><mpvue-echarts vue-id="8dd740cc-1" id="main" echarts="{{echarts}}" data-ref="mapChart" data-event-opts="{{[['^onInit',[['renderMap']]]]}}" bind:onInit="__e" class="data-v-57280228 vue-ref" bind:__l="__l"></mpvue-echarts></view><view class="data-v-57280228">123</view></view>
